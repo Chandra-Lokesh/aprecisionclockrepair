@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>A Precision Clock Repair</title>
+	<atom:link href="http://https://chandra-lokesh.github.io/aprecisionclockrepair/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://chandra-lokesh.github.io/aprecisionclockrepair</link>
+	<description>Reliable Clock Repair Service</description>
+	<lastBuildDate>Sun, 13 Mar 2022 02:18:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>python programming</title>
+		<link>http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/</link>
+					<comments>http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2022 02:06:56 +0000</pubDate>
+				<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">http://https://chandra-lokesh.github.io/aprecisionclockrepair/?p=5</guid>
+
+					<description><![CDATA[It is used for: web development (server-side), software development, mathematics, system scripting. What can Python do? Python can be used on a server to create web applications. Python can be used alongside software to create workflows. Python can connect to database systems. It can also read and modify files. Python can be used to handle &#8230;<p class="read-more"> <a class="" href="http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/"> <span class="screen-reader-text">python programming</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>It is used for:</p>
+
+
+
+<ul><li><a href="http://www.google.com/" target="_blank" rel="noreferrer noopener">web development</a> (server-side),</li><li>software development,</li><li>mathematics,</li><li>system scripting.</li></ul>
+
+
+
+<h3>What can Python do?</h3>
+
+
+
+<ul><li>Python can be used on a server to create web applications.</li><li>Python can be used alongside software to create workflows.</li><li>Python can connect to database systems. It can also read and modify files.</li><li>Python can be used to handle big data and perform complex mathematics.</li><li>Python can be used for rapid prototyping, or for production-ready software development.</li></ul>
+
+
+
+<h3>Why Python?</h3>
+
+
+
+<ul><li>Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).</li><li>Python has a simple syntax similar to the English language.</li><li>Python has syntax that allows developers to write programs with fewer lines than some other programming languages.</li><li>Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.</li><li>Python can be treated in a procedural way, an object-oriented way or a functional way.</li></ul>
+
+
+
+<h3>Good to know</h3>
+
+
+
+<ul><li>The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.</li><li>In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.</li></ul>
+
+
+
+<h3>Python Syntax compared to other programming languages</h3>
+
+
+
+<ul><li>Python was designed for readability, and has some similarities to the English language with influence from mathematics.</li><li>Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.</li><li>Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/</link>
+					<comments>http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2022 01:57:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://https://chandra-lokesh.github.io/aprecisionclockrepair/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
