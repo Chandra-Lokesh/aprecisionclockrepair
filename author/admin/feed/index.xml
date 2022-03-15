@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; A Precision Clock Repair</title>
-	<atom:link href="https://https://chandra-lokesh.github.io/aprecisionclockrepair/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://chandra-lokesh.github.io/aprecisionclockrepair</link>
+	<atom:link href="https://chandra-lokesh.github.io/aprecisionclockrepair/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chandra-lokesh.github.io/aprecisionclockrepair</link>
 	<description>Reliable Clock Repair Service</description>
 	<lastBuildDate>Sun, 13 Mar 2022 02:18:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>python programming</title>
-		<link>https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/</link>
-					<comments>https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/#respond</comments>
+		<link>https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/</link>
+					<comments>https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Mar 2022 02:06:56 +0000</pubDate>
 				<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://https://chandra-lokesh.github.io/aprecisionclockrepair/?p=5</guid>
+		<guid isPermaLink="false">https://chandra-lokesh.github.io/aprecisionclockrepair/?p=5</guid>
 
-					<description><![CDATA[It is used for: web development (server-side), software development, mathematics, system scripting. What can Python do? Python can be used on a server to create web applications. Python can be used alongside software to create workflows. Python can connect to database systems. It can also read and modify files. Python can be used to handle &#8230;<p class="read-more"> <a class="" href="https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/"> <span class="screen-reader-text">python programming</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[It is used for: web development (server-side), software development, mathematics, system scripting. What can Python do? Python can be used on a server to create web applications. Python can be used alongside software to create workflows. Python can connect to database systems. It can also read and modify files. Python can be used to handle &#8230;<p class="read-more"> <a class="" href="https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/"> <span class="screen-reader-text">python programming</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>It is used for:</p>
 
@@ -70,27 +70,27 @@
 <ul><li>Python was designed for readability, and has some similarities to the English language with influence from mathematics.</li><li>Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.</li><li>Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.</li></ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/feed/</wfw:commentRss>
+					<wfw:commentRss>https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/python-programming/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/</link>
-					<comments>https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/#comments</comments>
+		<link>https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/</link>
+					<comments>https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Mar 2022 01:57:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://chandra-lokesh.github.io/aprecisionclockrepair/?p=1</guid>
+		<guid isPermaLink="false">https://chandra-lokesh.github.io/aprecisionclockrepair/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://chandra-lokesh.github.io/aprecisionclockrepair/2022/03/13/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
